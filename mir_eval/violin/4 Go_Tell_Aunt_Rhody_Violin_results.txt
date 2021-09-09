@@ -1,0 +1,15 @@
+4 Go_Tell_Aunt_Rhody_Violin.txt vs. 4 Go_Tell_Aunt_Rhody_Violin_estimated.txt
+	                      Precision : 0.702
+	                         Recall : 0.569
+	                      F-measure : 0.629
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.957
+	               Recall_no_offset : 0.776
+	            F-measure_no_offset : 0.857
+	Average_Overlap_Ratio_no_offset : 0.8796296296296295
+	                Onset_Precision : 0.957
+	                   Onset_Recall : 0.776
+	                Onset_F-measure : 0.857
+	               Offset_Precision : 0.936
+	                  Offset_Recall : 0.759
+	               Offset_F-measure : 0.838

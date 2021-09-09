@@ -1,0 +1,14 @@
+Precision : 0.772
+	                         Recall : 0.772
+	                      F-measure : 0.772
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.895
+	               Recall_no_offset : 0.895
+	            F-measure_no_offset : 0.895
+	Average_Overlap_Ratio_no_offset : 0.9395424836601307
+	                Onset_Precision : 0.895
+	                   Onset_Recall : 0.895
+	                Onset_F-measure : 0.895
+	               Offset_Precision : 0.877
+	                  Offset_Recall : 0.877
+	               Offset_F-measure : 0.877

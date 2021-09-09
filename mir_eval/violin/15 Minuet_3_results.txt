@@ -1,0 +1,15 @@
+15 Minuet_3.txt vs. 15 Minuet_3_estimated.txt
+	                      Precision : 0.468
+	                         Recall : 0.271
+	                      F-measure : 0.343
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.955
+	               Recall_no_offset : 0.552
+	            F-measure_no_offset : 0.700
+	Average_Overlap_Ratio_no_offset : 0.7040094339622641
+	                Onset_Precision : 0.982
+	                   Onset_Recall : 0.568
+	                Onset_F-measure : 0.719
+	               Offset_Precision : 0.982
+	                  Offset_Recall : 0.568
+	               Offset_F-measure : 0.719

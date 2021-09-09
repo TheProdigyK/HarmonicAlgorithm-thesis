@@ -1,0 +1,15 @@
+9 Perpetual Motion ViolinF.txt vs. 9 Perpetual Motion ViolinF_estimated.txt
+	                      Precision : 0.652
+	                         Recall : 0.472
+	                      F-measure : 0.548
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 0.724
+	            F-measure_no_offset : 0.840
+	Average_Overlap_Ratio_no_offset : 0.8206521739130435
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 0.724
+	                Onset_F-measure : 0.840
+	               Offset_Precision : 1.000
+	                  Offset_Recall : 0.724
+	               Offset_F-measure : 0.840

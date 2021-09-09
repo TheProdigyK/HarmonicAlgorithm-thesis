@@ -1,0 +1,15 @@
+13_Minuet_1.txt vs. 13_Minuet_1_estimated.txt
+	                      Precision : 0.000
+	                         Recall : 0.000
+	                      F-measure : 0.000
+	          Average_Overlap_Ratio : 0
+	            Precision_no_offset : 0.031
+	               Recall_no_offset : 0.015
+	            F-measure_no_offset : 0.020
+	Average_Overlap_Ratio_no_offset : 0.5833333333333333
+	                Onset_Precision : 0.615
+	                   Onset_Recall : 0.294
+	                Onset_F-measure : 0.398
+	               Offset_Precision : 0.600
+	                  Offset_Recall : 0.287
+	               Offset_F-measure : 0.388

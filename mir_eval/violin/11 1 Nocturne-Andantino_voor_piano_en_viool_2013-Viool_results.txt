@@ -1,0 +1,15 @@
+11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool.txt vs. 11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool_estimated.txt
+	                      Precision : 0.561
+	                         Recall : 0.612
+	                      F-measure : 0.585
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.654
+	               Recall_no_offset : 0.714
+	            F-measure_no_offset : 0.683
+	Average_Overlap_Ratio_no_offset : 0.9095238095238096
+	                Onset_Precision : 0.673
+	                   Onset_Recall : 0.735
+	                Onset_F-measure : 0.702
+	               Offset_Precision : 0.673
+	                  Offset_Recall : 0.735
+	               Offset_F-measure : 0.702

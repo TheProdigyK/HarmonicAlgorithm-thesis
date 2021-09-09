@@ -1,0 +1,15 @@
+1 violin-twinkle.txt vs. 1 violin-twinkle_estimated.txt
+	                      Precision : 0.829
+	                         Recall : 0.810
+	                      F-measure : 0.819
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.951
+	               Recall_no_offset : 0.929
+	            F-measure_no_offset : 0.940
+	Average_Overlap_Ratio_no_offset : 0.9358974358974359
+	                Onset_Precision : 0.951
+	                   Onset_Recall : 0.929
+	                Onset_F-measure : 0.940
+	               Offset_Precision : 0.951
+	                  Offset_Recall : 0.929
+	               Offset_F-measure : 0.940

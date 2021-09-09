@@ -1,0 +1,15 @@
+16_The_Happy_Farmer2.txt vs. 16_The_Happy_Farmer2_estimated.txt
+	                      Precision : 0.116
+	                         Recall : 0.046
+	                      F-measure : 0.066
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.953
+	               Recall_no_offset : 0.380
+	            F-measure_no_offset : 0.543
+	Average_Overlap_Ratio_no_offset : 0.46087398373983746
+	                Onset_Precision : 0.988
+	                   Onset_Recall : 0.394
+	                Onset_F-measure : 0.563
+	               Offset_Precision : 0.767
+	                  Offset_Recall : 0.306
+	               Offset_F-measure : 0.437

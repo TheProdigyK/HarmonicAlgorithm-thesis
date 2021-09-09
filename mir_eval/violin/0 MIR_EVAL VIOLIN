@@ -1,0 +1,219 @@
+o	Twinkle Twinkle , Little Star 	Shinichi Suzuki
+
+1 violin-twinkle.txt vs. 1 violin-twinkle_estimated.txt
+	                      Precision : 0.886
+	                         Recall : 0.738
+	                      F-measure : 0.805
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 0.833
+	            F-measure_no_offset : 0.909
+	Average_Overlap_Ratio_no_offset : 0.9357142857142857
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 0.833
+	                Onset_F-measure : 0.909
+	               Offset_Precision : 1.000
+	                  Offset_Recall : 0.833
+	               Offset_F-measure : 0.909
+
+o	Lightly Row 				Folk Song
+
+
+2 Lightly_Row.txt vs. 2 Lightly_Row_estimated.txt
+	                      Precision : 0.667
+	                         Recall : 0.596
+	                      F-measure : 0.630
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.882
+	               Recall_no_offset : 0.789
+	            F-measure_no_offset : 0.833
+	Average_Overlap_Ratio_no_offset : 0.887037037037037
+	                Onset_Precision : 0.882
+	                   Onset_Recall : 0.789
+	                Onset_F-measure : 0.833
+	               Offset_Precision : 0.863
+	                  Offset_Recall : 0.772
+	               Offset_F-measure : 0.815
+
+
+
+o	Go tell aunt rhody 			Folk Song
+
+peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 60, 0.5, 10)
+
+4 Go_Tell_Aunt_Rhody_Violin.txt vs. 4 Go_Tell_Aunt_Rhody_Violin_estimated.txt
+	                      Precision : 0.855
+	                         Recall : 0.914
+	                      F-measure : 0.883
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.919
+	               Recall_no_offset : 0.983
+	            F-measure_no_offset : 0.950
+	Average_Overlap_Ratio_no_offset : 0.9700292397660818
+	                Onset_Precision : 0.919
+	                   Onset_Recall : 0.983
+	                Onset_F-measure : 0.950
+	               Offset_Precision : 0.919
+	                  Offset_Recall : 0.983
+	               Offset_F-measure : 0.950
+
+
+
+
+o	O Come, Little Children 		Folk Song
+
+peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 20, 0.5, 10)
+5 O_Come_Little_Children.txt vs. 5 O_Come_Little_Children_estimated.txt
+	                      Precision : 0.557
+	                         Recall : 0.557
+	                      F-measure : 0.557
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.773
+	               Recall_no_offset : 0.773
+	            F-measure_no_offset : 0.773
+	Average_Overlap_Ratio_no_offset : 0.8517156862745098
+	                Onset_Precision : 0.773
+	                   Onset_Recall : 0.773
+	                Onset_F-measure : 0.773
+	               Offset_Precision : 0.727
+	                  Offset_Recall : 0.727
+	               Offset_F-measure : 0.727
+
+o	Long, Long Ago 			T. H. Bayly
+
+peaks = librosa.util.peak_pick(self.onset_envelope, 3, 3, 3, 50, 0.7, 10)
+7 1 Long_Long_Ago.txt vs. 7 1 Long_Long_Ago_estimated.txt
+	                      Precision : 0.679
+	                         Recall : 0.691
+	                      F-measure : 0.685
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.857
+	               Recall_no_offset : 0.873
+	            F-measure_no_offset : 0.865
+	Average_Overlap_Ratio_no_offset : 0.921875
+	                Onset_Precision : 0.857
+	                   Onset_Recall : 0.873
+	                Onset_F-measure : 0.865
+	               Offset_Precision : 0.857
+	                  Offset_Recall : 0.873
+	               Offset_F-measure : 0.865
+
+
+o	Perpetual Motion 			Shinichi Suzuki
+
+peaks = librosa.util.peak_pick(self.onset_envelope, 3, 3, 3, 20, 0.5, 10)
+9 Perpetual Motion ViolinF.txt vs. 9 Perpetual Motion ViolinF_estimated.txt
+	                      Precision : 0.838
+	                         Recall : 0.772
+	                      F-measure : 0.803
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.966
+	               Recall_no_offset : 0.890
+	            F-measure_no_offset : 0.926
+	Average_Overlap_Ratio_no_offset : 0.9336283185840708
+	                Onset_Precision : 0.966
+	                   Onset_Recall : 0.890
+	                Onset_F-measure : 0.926
+	               Offset_Precision : 0.966
+	                  Offset_Recall : 0.890
+	               Offset_F-measure : 0.926
+
+
+o	Andantino				Shinichi Suzuki
+        peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 40, 0.5, 10)
+
+11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool.txt vs. 11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool_estimated.txt
+	                      Precision : 0.517
+	                         Recall : 0.622
+	                      F-measure : 0.565
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.703
+	               Recall_no_offset : 0.847
+	            F-measure_no_offset : 0.769
+	Average_Overlap_Ratio_no_offset : 0.8674698795180723
+	                Onset_Precision : 0.703
+	                   Onset_Recall : 0.847
+	                Onset_F-measure : 0.769
+	               Offset_Precision : 0.678
+	                  Offset_Recall : 0.816
+	               Offset_F-measure : 0.741
+
+o	Minuet No. 1 				J. S. Bach
+        peaks = librosa.util.peak_pick(self.onset_envelope, 40, 40, 40, 40, 0.5, 10)
+
+13_Minuet_1.txt vs. 13_Minuet_1_estimated.txt
+	                      Precision : 0.402
+	                         Recall : 0.265
+	                      F-measure : 0.320
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.907
+	               Recall_no_offset : 0.599
+	            F-measure_no_offset : 0.721
+	Average_Overlap_Ratio_no_offset : 0.6829896907216495
+	                Onset_Precision : 0.907
+	                   Onset_Recall : 0.599
+	                Onset_F-measure : 0.721
+	               Offset_Precision : 0.832
+	                  Offset_Recall : 0.549
+	               Offset_F-measure : 0.662
+
+o	Minuet No. 2 				J. S. Bach
+        peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 40, 0.5, 10)
+
+14 Minuet_2.txt vs. 14 Minuet_2_estimated.txt
+	                      Precision : 0.815
+	                         Recall : 0.755
+	                      F-measure : 0.784
+	          Average_Overlap_Ratio : 0.999999999999964
+	            Precision_no_offset : 0.940
+	               Recall_no_offset : 0.871
+	            F-measure_no_offset : 0.904
+	Average_Overlap_Ratio_no_offset : 0.9351395730705753
+	                Onset_Precision : 0.944
+	                   Onset_Recall : 0.876
+	                Onset_F-measure : 0.909
+	               Offset_Precision : 0.935
+	                  Offset_Recall : 0.867
+	               Offset_F-measure : 0.900
+
+o	Minuet No. 3				 J. S. Bach
+        peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 40, 0.5, 10)
+
+15 Minuet_3.txt vs. 15 Minuet_3_estimated.txt
+	                      Precision : 0.881
+	                         Recall : 0.849
+	                      F-measure : 0.865
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.973
+	               Recall_no_offset : 0.938
+	            F-measure_no_offset : 0.955
+	Average_Overlap_Ratio_no_offset : 0.9555555555555556
+	                Onset_Precision : 0.973
+	                   Onset_Recall : 0.938
+	                Onset_F-measure : 0.955
+	               Offset_Precision : 0.973
+	                  Offset_Recall : 0.938
+	               Offset_F-measure : 0.955
+
+
+o	The Happy FarmerR. Schumann 	R. Schumann
+
+        peaks = librosa.util.peak_pick(self.onset_envelope, 20, 20, 20, 40, 0.7, 10)
+
+
+16_The_Happy_Farmer2.txt vs. 16_The_Happy_Farmer2_estimated.txt
+	                      Precision : 0.728
+	                         Recall : 0.657
+	                      F-measure : 0.691
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.990
+	               Recall_no_offset : 0.894
+	            F-measure_no_offset : 0.939
+	Average_Overlap_Ratio_no_offset : 0.8687392055267704
+	                Onset_Precision : 0.990
+	                   Onset_Recall : 0.894
+	                Onset_F-measure : 0.939
+	               Offset_Precision : 0.841
+	                  Offset_Recall : 0.759
+	               Offset_F-measure : 0.798
+

@@ -1,0 +1,15 @@
+17_Gavotte2.txt vs. 17_Gavotte2_estimated.txt
+	                      Precision : 0.000
+	                         Recall : 0.000
+	                      F-measure : 0.000
+	          Average_Overlap_Ratio : 0
+	            Precision_no_offset : 0.061
+	               Recall_no_offset : 0.045
+	            F-measure_no_offset : 0.052
+	Average_Overlap_Ratio_no_offset : 0.4444444444444444
+	                Onset_Precision : 0.451
+	                   Onset_Recall : 0.329
+	                Onset_F-measure : 0.381
+	               Offset_Precision : 0.268
+	                  Offset_Recall : 0.196
+	               Offset_F-measure : 0.226

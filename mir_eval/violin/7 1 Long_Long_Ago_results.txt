@@ -1,0 +1,15 @@
+7 1 Long_Long_Ago.txt vs. 7 1 Long_Long_Ago_estimated.txt
+	                      Precision : 0.536
+	                         Recall : 0.273
+	                      F-measure : 0.361
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 0.509
+	            F-measure_no_offset : 0.675
+	Average_Overlap_Ratio_no_offset : 0.7157738095238094
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 0.509
+	                Onset_F-measure : 0.675
+	               Offset_Precision : 0.964
+	                  Offset_Recall : 0.491
+	               Offset_F-measure : 0.651
