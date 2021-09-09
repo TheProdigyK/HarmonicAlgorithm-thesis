@@ -1,0 +1,220 @@
+o	Twinkle Twinkle , Little Star 	Shinichi Suzuki
+
+1 piano-twinkle.txt vs. 1 piano-twinkle_estimated.txt
+	                      Precision : 0.976
+	                         Recall : 0.976
+	                      F-measure : 0.976
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9880952380952381
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.976
+	                  Offset_Recall : 0.976
+	               Offset_F-measure : 0.976
+
+o	Lightly Row 				Folk Song
+
+2 Lightly_Row.txt vs. 2 Lightly_Row_estimated.txt
+	                      Precision : 0.982
+	                         Recall : 0.982
+	                      F-measure : 0.982
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9912280701754386
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.982
+	                  Offset_Recall : 0.982
+	               Offset_F-measure : 0.982
+
+o	Go tell aunt rhody 			Folk Song
+
+4 Go_Tell_Aunt_Rhody_Violin.txt vs. 4 Go_Tell_Aunt_Rhody_Violin_estimated.txt
+	                      Precision : 0.983
+	                         Recall : 0.983
+	                      F-measure : 0.983
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9913793103448276
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.983
+	                  Offset_Recall : 0.983
+	               Offset_F-measure : 0.983
+
+o	O Come, Little Children 		Folk Song
+
+5 O_Come_Little_Children.txt vs. 5 O_Come_Little_Children_estimated.txt
+	                      Precision : 0.886
+	                         Recall : 0.886
+	                      F-measure : 0.886
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9535984848484849
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.886
+	                  Offset_Recall : 0.886
+	               Offset_F-measure : 0.886
+
+o	Long, Long Ago 			T. H. Bayly
+
+7 1 Long_Long_Ago.txt vs. 7 1 Long_Long_Ago_estimated.txt
+	                      Precision : 0.964
+	                         Recall : 0.964
+	                      F-measure : 0.964
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9818181818181818
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.964
+	                  Offset_Recall : 0.964
+	               Offset_F-measure : 0.964
+
+o	Perpetual Motion 			Shinichi Suzuki
+
+9 Perpetual Motion.txt vs. 9 Perpetual Motion_estimated.txt
+	                      Precision : 1.000
+	                         Recall : 1.000
+	                      F-measure : 1.000
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 1.0
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 1.000
+	                  Offset_Recall : 1.000
+	               Offset_F-measure : 1.000
+
+o	Andantino				Shinichi Suzuki
+
+11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool.txt vs. 11 1 Nocturne-Andantino_voor_piano_en_viool_2013-Viool_estimated.txt
+	                      Precision : 0.848
+	                         Recall : 0.969
+	                      F-measure : 0.905
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.857
+	               Recall_no_offset : 0.980
+	            F-measure_no_offset : 0.914
+	Average_Overlap_Ratio_no_offset : 0.9947916666666666
+	                Onset_Precision : 0.875
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 0.933
+	               Offset_Precision : 0.866
+	                  Offset_Recall : 0.990
+	               Offset_F-measure : 0.924
+
+o	Etude 					Shinichi Suzuki
+
+ELIMINAR
+
+o	Minuet No. 1 				J. S. Bach
+
+13_Minuet_1.txt vs. 13_Minuet_1_estimated.txt
+	                      Precision : 0.957
+	                         Recall : 0.957
+	                      F-measure : 0.957
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9773662551440329
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.957
+	                  Offset_Recall : 0.957
+	               Offset_F-measure : 0.957
+
+
+o	Minuet No. 2 				J. S. Bach
+
+14 Minuet_2.txt vs. 14 Minuet_2_estimated.txt
+	                      Precision : 0.270
+	                         Recall : 0.270
+	                      F-measure : 0.270
+	          Average_Overlap_Ratio : 0.9999999999999982
+	            Precision_no_offset : 0.309
+	               Recall_no_offset : 0.309
+	            F-measure_no_offset : 0.309
+	Average_Overlap_Ratio_no_offset : 0.9398148148148115
+	                Onset_Precision : 0.734
+	                   Onset_Recall : 0.734
+	                Onset_F-measure : 0.734
+	               Offset_Precision : 0.734
+	                  Offset_Recall : 0.734
+	               Offset_F-measure : 0.734
+
+o	Minuet No. 3				 J. S. Bach
+
+15 Minuet_3.txt vs. 15 Minuet_3_estimated.txt
+	                      Precision : 0.995
+	                         Recall : 0.995
+	                      F-measure : 0.995
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 1.000
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 1.000
+	Average_Overlap_Ratio_no_offset : 0.9965277777777778
+	                Onset_Precision : 1.000
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 1.000
+	               Offset_Precision : 0.995
+	                  Offset_Recall : 0.995
+	               Offset_F-measure : 0.995
+
+o	The Happy FarmerR. Schumann 	R. Schumann
+
+16_The_Happy_Farmer2.txt vs. 16_The_Happy_Farmer2_estimated.txt
+	                      Precision : 0.853
+	                         Recall : 0.856
+	                      F-measure : 0.855
+	          Average_Overlap_Ratio : 1.0
+	            Precision_no_offset : 0.995
+	               Recall_no_offset : 1.000
+	            F-measure_no_offset : 0.998
+	Average_Overlap_Ratio_no_offset : 0.9328703703703703
+	                Onset_Precision : 0.995
+	                   Onset_Recall : 1.000
+	                Onset_F-measure : 0.998
+	               Offset_Precision : 0.853
+	                  Offset_Recall : 0.856
+	               Offset_F-measure : 0.855
+
+o	Gavotte 				F. J. Gossec
+
+17_Gavotte2.txt vs. 17_Gavotte2_estimated.txt
+	                      Precision : 0.000
+	                         Recall : 0.000
+	                      F-measure : 0.000
+	          Average_Overlap_Ratio : 0
+	            Precision_no_offset : 0.046
+	               Recall_no_offset : 0.045
+	            F-measure_no_offset : 0.045
+	Average_Overlap_Ratio_no_offset : 0.4351851851851852
+	                Onset_Precision : 0.290
+	                   Onset_Recall : 0.282
+	                Onset_F-measure : 0.286
+	               Offset_Precision : 0.288
+	                  Offset_Recall : 0.280
+	               Offset_F-measure : 0.284
