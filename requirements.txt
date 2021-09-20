@@ -1,0 +1,6 @@
+librosa==0.8.1
+matplotlib==3.3.4
+mir-eval==0.6
+scipy==1.6.2
+tqdm==4.59.0
+music21==6.7.1
